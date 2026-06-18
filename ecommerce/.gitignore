@@ -1,0 +1,11 @@
+# Compiled binary
+ecommerce.exe
+ecommerce
+
+# Working data files (backup in data/backup/ tracks the originals)
+data/products.txt
+data/users.txt
+data/orders.txt
+
+# IDE configs
+.vscode/
